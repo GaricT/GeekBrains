@@ -1,3 +1,8 @@
+/** 
+ * Урок 1. Обобщения
+ * @autor Кузнецов Максим
+ * @version 0.1
+*/
 package ru.geekbrains.java3.lesson1.generics;
 
 public class MainClass {
